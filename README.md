@@ -1,4 +1,11 @@
+# Overview
+A Mobile application Midterm Practical Project For our subject of COSCC30.
+
 # Color Game
+
+Color Game is a mobile application game. Where the user can place bet 6 different kind of colors and win based on luck.
+
+
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
