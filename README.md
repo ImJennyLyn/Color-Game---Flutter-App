@@ -1,6 +1,16 @@
-# cosc30_midterm_vallador_set4
+# Color Game
 
 A new Flutter project created with FlutLab - https://flutlab.io
+
+![2](https://github.com/Rinxxash/Color-Game---Flutter-App/assets/165652617/39b6279b-ffbf-4009-92bf-bc5c4b93b0b6)
+
+
+
+
+
+
+
+
 
 ## Getting Started
 
